@@ -1,0 +1,12 @@
+c:\users\tiger\documents\visual studio 2012\Projects\ProjectEulerSolver\ProjectEulerSolver\bin\Debug\ProjectEulerSolver.exe.config
+C:\Users\Tiger\Documents\Visual Studio 2012\Projects\ProjectEulerSolver\ProjectEulerSolver\bin\Debug\ProjectEulerSolver.exe
+C:\Users\Tiger\Documents\Visual Studio 2012\Projects\ProjectEulerSolver\ProjectEulerSolver\bin\Debug\ProjectEulerSolver.pdb
+C:\Users\Tiger\Documents\Visual Studio 2012\Projects\ProjectEulerSolver\ProjectEulerSolver\bin\Debug\ProjectEulerSolver.xml
+C:\Users\Tiger\Documents\Visual Studio 2012\Projects\ProjectEulerSolver\ProjectEulerSolver\obj\Debug\ProjectEulerSolver._1.resources
+C:\Users\Tiger\Documents\Visual Studio 2012\Projects\ProjectEulerSolver\ProjectEulerSolver\obj\Debug\ProjectEulerSolver.Form1.resources
+C:\Users\Tiger\Documents\Visual Studio 2012\Projects\ProjectEulerSolver\ProjectEulerSolver\obj\Debug\ProjectEulerSolver.Resources.resources
+C:\Users\Tiger\Documents\Visual Studio 2012\Projects\ProjectEulerSolver\ProjectEulerSolver\obj\Debug\ProjectEulerSolver.vbproj.GenerateResource.Cache
+C:\Users\Tiger\Documents\Visual Studio 2012\Projects\ProjectEulerSolver\ProjectEulerSolver\obj\Debug\ProjectEulerSolver.exe
+C:\Users\Tiger\Documents\Visual Studio 2012\Projects\ProjectEulerSolver\ProjectEulerSolver\obj\Debug\ProjectEulerSolver.xml
+C:\Users\Tiger\Documents\Visual Studio 2012\Projects\ProjectEulerSolver\ProjectEulerSolver\obj\Debug\ProjectEulerSolver.pdb
+C:\Users\Tiger\Documents\Visual Studio 2012\Projects\ProjectEulerSolver\ProjectEulerSolver\obj\Debug\ProjectEulerSolver._2.resources
