@@ -11,4 +11,12 @@
     Private Sub B2_Click(sender As Object, e As EventArgs) Handles B2.Click
         _2.Show()
     End Sub
+
+    Private Sub B3_Click(sender As Object, e As EventArgs) Handles B3.Click
+        _3.show()
+    End Sub
+
+    Private Sub B4_Click(sender As Object, e As EventArgs) Handles B4.Click
+        _4.Show()
+    End Sub
 End Class

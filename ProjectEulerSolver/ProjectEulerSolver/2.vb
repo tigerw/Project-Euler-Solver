@@ -3,13 +3,13 @@
     Dim firstnum As Long = 1
     Dim secondnum As Long = 2
     Dim store As Long
-    Dim currentselected As Integer = 0
-    Dim result As Integer = 0
+    Dim currentselected As Long
+    Dim result As Long
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
-        Do While store <= "4000000" 'The quotations aren't necessary!
+        Do While store <= 4000000
             'There seems to be an issue here where VSE lets this code run once more when
-            'it detects store <= "4000000", so there is a result bigger than the aformented
+            'it detects store <= 4000000, so there is a result bigger than the aformented
             'value. Hm.
             store = firstnum + secondnum
             With ListBox1.Items

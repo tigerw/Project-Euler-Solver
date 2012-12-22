@@ -1,1 +1,1 @@
-For main coding, see *.vb files. For built exxecutable, see /bin/Debug/ folder.
+For main coding, see *.vb files. For built executable, see /bin/Debug/ folder.
