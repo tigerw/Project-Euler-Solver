@@ -12,3 +12,7 @@ C:\Users\Tiger\Documents\Visual Studio 2012\Projects\ProjectEulerSolver\ProjectE
 C:\Users\Tiger\Documents\Visual Studio 2012\Projects\ProjectEulerSolver\ProjectEulerSolver\obj\Debug\ProjectEulerSolver._2.resources
 C:\Users\Tiger\Documents\Visual Studio 2012\Projects\ProjectEulerSolver\ProjectEulerSolver\obj\Debug\ProjectEulerSolver._3.resources
 C:\Users\Tiger\Documents\Visual Studio 2012\Projects\ProjectEulerSolver\ProjectEulerSolver\obj\Debug\ProjectEulerSolver._4.resources
+C:\Users\Tiger\Documents\GitHub\ProjectEulerInVSE\ProjectEulerSolver\ProjectEulerSolver\bin\Debug\ProjectEulerSolver.exe.config
+C:\Users\Tiger\Documents\GitHub\ProjectEulerInVSE\ProjectEulerSolver\ProjectEulerSolver\obj\Debug\ProjectEulerSolver.exe
+C:\Users\Tiger\Documents\GitHub\ProjectEulerInVSE\ProjectEulerSolver\ProjectEulerSolver\obj\Debug\ProjectEulerSolver.xml
+C:\Users\Tiger\Documents\GitHub\ProjectEulerInVSE\ProjectEulerSolver\ProjectEulerSolver\obj\Debug\ProjectEulerSolver.pdb
